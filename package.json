@@ -1,0 +1,23 @@
+{
+  "name": "vue.Js_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jungjjeong/vue.Js_study.git"
+  },
+  "keywords": [],
+  "author": "Haeyum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jungjjeong/vue.Js_study/issues"
+  },
+  "homepage": "https://github.com/Jungjjeong/vue.Js_study#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
